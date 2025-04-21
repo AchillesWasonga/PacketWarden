@@ -4,18 +4,18 @@
 
 ---
 
-## 🔥 Features
+## Features
 
-- ⚡ Fast packet capture using libpcap
-- 🧠 Rule-based matching engine (IP, port, protocol, content)
-- 📦 Layer 2, 3, and 4 parsing (Ethernet/IP/TCP/UDP)
-- 🧾 Custom rule file format
-- 🧵 Modular multithreaded architecture (coming soon)
-- 📊 Real-time alert logging
+- Fast packet capture using libpcap
+- Rule-based matching engine (IP, port, protocol, content)
+- Layer 2, 3, and 4 parsing (Ethernet/IP/TCP/UDP)
+- Custom rule file format
+- Modular multithreaded architecture (coming soon)
+- Real-time alert logging
 
 ---
 
-## 🧠 Motivation
+## Motivation
 
 PacketWarden was built as a systems-level cybersecurity project to:
 - Practice high-performance network programming in C
@@ -24,15 +24,15 @@ PacketWarden was built as a systems-level cybersecurity project to:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
-### 🔧 Prerequisites
+### Prerequisites
 
 - GCC or Clang
 - `libpcap` installed (`sudo apt install libpcap-dev` on Debian)
 - Linux/macOS (preferably Linux)
 
-### 📦 Build
+### Build
 
 ```bash
 make
